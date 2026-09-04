@@ -3,7 +3,7 @@
 **End-to-end data analytics portfolio project using PostgreSQL, Power BI and Google Sheets**
 
 > **Data notice:** This project uses fully synthetic merchant and transaction data created for portfolio demonstration. It contains no real customer, cardholder or company information.
-> ## Project files
+ ## Project files
 
 - [Download the editable Power BI project (.pbix)](merchant_transaction_performance_dashboards.pbix)
 - [View the complete dashboard report (.pdf)](dashboard_report.pdf)
